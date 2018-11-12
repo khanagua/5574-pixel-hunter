@@ -1,7 +1,7 @@
 # Личный проект «Пиксель хантер» [![Build status][travis-image]][travis-url]
 
 * Студент: [Виктория Ханагуа](https://up.htmlacademy.ru/ecmascript/7/user/5574).
-* Наставник: `Неизвестно`.
+* Наставник: `Без наставника`.
 
 ---
 
